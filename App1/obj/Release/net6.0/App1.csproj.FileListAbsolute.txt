@@ -1,0 +1,15 @@
+C:\Users\ahmed\source\repos\App1\App1\bin\Release\net6.0\App1.exe
+C:\Users\ahmed\source\repos\App1\App1\bin\Release\net6.0\App1.deps.json
+C:\Users\ahmed\source\repos\App1\App1\bin\Release\net6.0\App1.runtimeconfig.json
+C:\Users\ahmed\source\repos\App1\App1\bin\Release\net6.0\App1.dll
+C:\Users\ahmed\source\repos\App1\App1\bin\Release\net6.0\App1.pdb
+C:\Users\ahmed\source\repos\App1\App1\obj\Release\net6.0\App1.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\App1\App1\obj\Release\net6.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\App1\App1\obj\Release\net6.0\App1.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\App1\App1\obj\Release\net6.0\App1.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\App1\App1\obj\Release\net6.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\App1\App1\obj\Release\net6.0\App1.dll
+C:\Users\ahmed\source\repos\App1\App1\obj\Release\net6.0\refint\App1.dll
+C:\Users\ahmed\source\repos\App1\App1\obj\Release\net6.0\App1.pdb
+C:\Users\ahmed\source\repos\App1\App1\obj\Release\net6.0\App1.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\App1\App1\obj\Release\net6.0\ref\App1.dll
